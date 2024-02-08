@@ -6,6 +6,6 @@ Neste repositório, você vai encontrar estudos e  exercícios resolvidos  do cu
 O curso foi dividido em 3 módulos, denominados como 'MUNDO'. Segue abaixo a lista dos exercícios resolvidos, juntamente com os enunciados. Conforme vou finalizando, estarei atualizando este repositório.⌛🙏
 
 
-## Lista de exercícios resolvidos:
+## Sobre o curso 🔎:
 + Mundo 1 - Fundamentos
-    - [Link do curso](https://www.youtube.com/watch?v=S9uPNppGsGo)
+    - [LINK DO CANAL](https://www.youtube.com/watch?v=S9uPNppGsGo)
